@@ -40,3 +40,5 @@ _**Reference Book**_ Discrete Math and it's Applications by Kenneth H Rosen
 - Conversion bw both
 - Fourier Transform
 - Properties of FT
+
+_**Reference Book**_ Linear Signals and Systems by BP Lathi and R Green
