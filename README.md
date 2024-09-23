@@ -26,3 +26,17 @@
 - Trees
 
 _**Reference Book**_ Discrete Math and it's Applications by Kenneth H Rosen
+
+### Signals and Systems
+- Basic SignalnSystem
+- Classification
+- EnergyPowerSignals
+- TimeandAmplitudeProperties
+- Orthogonality
+- Parseval
+- Correlation
+- ACF-CCF
+- Fourier(Trigo and Exp) and existence
+- Conversion bw both
+- Fourier Transform
+- Properties of FT
