@@ -3,7 +3,7 @@
 Hey! These are the handwritten notes, I've taken while studying.
 
 ## Topics
-### 1. ML Notes\
+### 1. ML Notes
 a) CS231N Notes - Has the complete class notes of Stanford's CS231N course in Deep Learning
 
 ### 2. Third Semester
