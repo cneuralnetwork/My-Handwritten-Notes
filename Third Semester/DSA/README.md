@@ -1,4 +1,4 @@
-# Data Structures and Algorithms Course Outline
+# DSA Notes
 
 ## 1. Introduction
 - **Topics Covered**:
