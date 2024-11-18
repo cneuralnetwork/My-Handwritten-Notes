@@ -9,7 +9,7 @@ a) <ins>CS231N Notes</ins> - Has the complete class notes of Stanford's CS231N c
 ### 2. Third Semester
 a) <ins>Data Structures and Algorithms</ins> \
   &nbsp;&nbsp;&nbsp;&nbsp;i) Part 1 - Has basics, Time and Space complexity, Arrays, Stacks, Queues, Linked Lists, Recursion\
-  &nbsp;&nbsp;&nbsp;&nbsp;ii) Part 2 - Has trees, hashing, sorting, searching
+  &nbsp;&nbsp;&nbsp;&nbsp;ii) Part 2 - Has trees, hashing, sorting, searching\
 \
 b) <ins>Digital Logic</ins> \
   &nbsp;&nbsp;&nbsp;&nbsp;i) coming soon\
