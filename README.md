@@ -1,3 +1,7 @@
+# ARCHIVED
+For newer posts and notes, please visit - [click here](https://cneuralnetwork.gumroad.com/)
+---
+
 # My Handwritten Notes
 
 Hey! These are the handwritten notes, I've taken while studying.
